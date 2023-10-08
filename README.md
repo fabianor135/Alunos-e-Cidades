@@ -19,3 +19,5 @@ direita e os registros correspondentes da tabela à esquerda.
 4. Utilizando ALIASES para alterar o nome de uma coluna.
 
   ![exer4](exer4.jpg).
+
+## ALIASES ##
