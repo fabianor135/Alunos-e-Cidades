@@ -10,3 +10,8 @@ retornado apenas as linhas que casam ambas em as tabelas:
  (ou NULL se não houver correspondência).
 
 ![exer2](exer2.jpg).
+
+3.Agora temos todos os registros da tabela à
+direita e os registros correspondentes da tabela à esquerda.
+
+![exer3](exer3.jpg).
