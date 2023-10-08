@@ -15,3 +15,7 @@ retornado apenas as linhas que casam ambas em as tabelas:
 direita e os registros correspondentes da tabela à esquerda.
 
 ![exer3](exer3.jpg).
+
+4. Utilizando ALIASES para alterar o nome de uma coluna.
+
+  ![exer4](exer4.jpg).
