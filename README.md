@@ -20,4 +20,4 @@ direita e os registros correspondentes da tabela à esquerda.
 
   ![exer4](exer4.jpg).
 
-## ALIASES ##
+
